@@ -1,4 +1,4 @@
-package io.devdezyn.petcareapp;
+package petcareapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
