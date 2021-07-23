@@ -7,10 +7,6 @@ public interface CrudService<T, ID> {
 
     T findById(ID id);
 
-    T findByUsername(String username);
-
-    T findByLastName(String lastName);
-
     T save(T object);
 
     void deleteById(ID id);
